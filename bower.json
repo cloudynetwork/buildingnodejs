@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Peter Joseph <peter.joseph@soltius.co.nz>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
